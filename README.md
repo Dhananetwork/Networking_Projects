@@ -1,11 +1,13 @@
 
+ <h3 align="center">MPLS L3 Backbone Route Leaking between the VRF using RT </h3>
+ <h3 align="Left">CE-PE Routing protocol using- BGP/OSPF </h3>
+ <h3 align="Left">PE acting as CE / Redistribute directly connected </h3>
+
+![image](https://github.com/user-attachments/assets/2020731e-8991-4a9c-973e-d54a5a74ae69)
+
  <h3 align="center">OSPF ABR/ASBR/NSSA/Virual-link/NAT Topology </h3>
  
 ![image](https://github.com/Dhananetwork/Networking_Projects/assets/159283500/eaad7b01-c9ef-413d-b84c-72401e2ac4d0)
-
- <h3 align="center">MPLS L3 Backbone Route Leaking between the VRF using RT </h3>
-
-![image](https://github.com/user-attachments/assets/2020731e-8991-4a9c-973e-d54a5a74ae69)
 
  <h3 align="center"> ISP-EBGP Influencing Inbound/Outbound traffic flow </h3>
  
