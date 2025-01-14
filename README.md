@@ -1,7 +1,4 @@
- <h3 align="center">MPLS L3 Backbone </h3>
-![image](https://github.com/user-attachments/assets/d7cab91b-fb71-48ff-993a-bc8abe3a0668)
 
- 
  <h3 align="center">OSPF Network Topology </h3>
  
 ![image](https://github.com/Dhananetwork/Networking_Projects/assets/159283500/eaad7b01-c9ef-413d-b84c-72401e2ac4d0)
@@ -18,6 +15,10 @@
   <h3 align="center">IPSec VPN using BGP Routing </h3>
  
   ![image](https://github.com/Dhananetwork/Networking_Projects/assets/159283500/e9af6298-9976-40f9-a238-a8da23f83011)
+
+ <h3 align="center">MPLS L3 Backbone </h3>
+
+![image](https://github.com/user-attachments/assets/2020731e-8991-4a9c-973e-d54a5a74ae69)
 
 
  
