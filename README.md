@@ -3,9 +3,9 @@
  
 ![image](https://github.com/Dhananetwork/Networking_Projects/assets/159283500/eaad7b01-c9ef-413d-b84c-72401e2ac4d0)
 
- <h3 align="center"> IBGP Confederation Topology </h3>
+ <h3 align="center"> EBGP Traffic influencing Inbound/Outbound traffic flow </h3>
  
- ![image](https://github.com/Dhananetwork/Networking_Projects/assets/159283500/840c354c-2a96-4576-8e84-088f1318968f)
+![image](https://github.com/user-attachments/assets/0b777fd9-ec20-4314-a930-1a4fc9d640c2)
 
 
 <h3 align="center"> L2 Switching Topology </h3>
