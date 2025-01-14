@@ -1,5 +1,5 @@
  <h3 align="center">MPLS L3 Backbone </h3>
-![image](https://github.com/user-attachments/assets/c85e0bfb-2514-4ba1-8be4-2762393cb7fe)
+![image](https://github.com/user-attachments/assets/d7cab91b-fb71-48ff-993a-bc8abe3a0668)
 
  
  <h3 align="center">OSPF Network Topology </h3>
