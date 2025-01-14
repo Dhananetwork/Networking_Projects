@@ -13,10 +13,6 @@
  
 ![image](https://github.com/user-attachments/assets/0b777fd9-ec20-4314-a930-1a4fc9d640c2)
 
-<h3 align="center">Loop Prevention on Mutual Redistribution between OSPF/EIGRP Routing Protocol </h3>
-  
-![image](https://github.com/user-attachments/assets/034bd1da-f07e-4a0a-8583-6ba610da8d4c)
-
   
 <h3 align="center">IPSec VPN using BGP Routing </h3>
  
