@@ -13,9 +13,10 @@
  
 ![image](https://github.com/user-attachments/assets/0b777fd9-ec20-4314-a930-1a4fc9d640c2)
 
-<h3 align="center"> ACI APIC L2 EPG extension using Physical Domain </h3>
+<h3 align="center"> ACI APIC L2 EPG extension using Physical Domain & Contract Between L3 EPG's </h3>
 
-![image](https://github.com/user-attachments/assets/303b6f29-5925-49c2-bb9b-e36c2cc5b674)
+![image](https://github.com/user-attachments/assets/8b63db4f-bb1a-45a2-88d6-b3fdd6ca7180)
+
 
 <h3 align="center">Site-to-Site IPSec VPN route Advertisement using BGP Routing </h3>
 
