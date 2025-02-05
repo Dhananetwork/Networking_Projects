@@ -11,7 +11,10 @@
 
 <h3 align="center"> BGP Influencing Inbound/Outbound traffic flow between ISP's using Local Preference /AS-Path </h3>
  
-![image](https://github.com/user-attachments/assets/0b777fd9-ec20-4314-a930-1a4fc9d640c2)
+#![image](https://github.com/user-attachments/assets/0b777fd9-ec20-4314-a930-1a4fc9d640c2)
+
+![image](https://github.com/user-attachments/assets/39dfc8be-0964-473c-b81e-cfd1465a7576)
+
 
 <h3 align="center"> ACI APIC L2 EPG extension using Physical Domain & Contract Between L3 EPG's </h3>
 
